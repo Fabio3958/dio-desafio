@@ -1,0 +1,1 @@
+O commit serve para salvar uma alteração de forma que todos possam entender o que foi alterado.
